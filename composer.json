@@ -1,5 +1,6 @@
 {
-    "name": "crscheid/php-article-extractor",
+    "name": "ibraAbuKaff/php-article-extractor",
+    "version":"1.0.0"
     "description": "An HTML article extractor for PHP",
     "keywords": ["parse", "HTML", "extract"],
     "license": "MIT",
